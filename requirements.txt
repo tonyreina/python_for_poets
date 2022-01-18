@@ -5,6 +5,7 @@ matplotlib
 ipympl
 plotly
 dash
+jupyterlab >=3.1
 jupyter-dash
 dash-daq
 dash-bootstrap-components
