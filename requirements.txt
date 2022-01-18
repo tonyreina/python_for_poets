@@ -6,7 +6,7 @@ ipympl
 plotly
 ipython
 ipykernel
-jupyterlab>=2.0
+jupyterlab>=3.0
 notebook>=6.0.3
 jupyter_server_proxy
 dash
