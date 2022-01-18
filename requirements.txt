@@ -12,3 +12,5 @@ jupyter_server_proxy
 dash
 dash_bootstrap_components
 dash_daq
+jupyter-dash
+
