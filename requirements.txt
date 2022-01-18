@@ -3,11 +3,6 @@ pandas
 numpy
 matplotlib
 plotly
-jupyterlab>=3.0
-notebook==6.0.3
-jupyter_server_proxy
-dash
-dash_bootstrap_components
-dash_daq
-jupyter-dash
+jupyter
+
 
