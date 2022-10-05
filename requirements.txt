@@ -4,5 +4,6 @@ numpy
 matplotlib
 plotly
 jupyter
+scikit-learn
 
 
