@@ -1,9 +1,12 @@
 biopython
-pandas
-numpy
+dask
+dask-ml
 matplotlib
-plotly
+numpy
 jupyter
+pandas
+plotly
 scikit-learn
+tqdm
 
 
