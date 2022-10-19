@@ -1,0 +1,13 @@
+name: poets
+dependencies:
+  - python>=3.10
+  - biopython
+  - dask
+  - dask-ml
+  - matplotlib
+  - numpy
+  - jupyter
+  - pandas
+  - plotly
+  - scikit-learn
+  - tqdm
