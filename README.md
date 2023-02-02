@@ -5,4 +5,4 @@ To run this code, click on the Binder link:  [![Binder](https://mybinder.org/bad
 
 or
 
-To run this code, click on the Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master)
+To run this code, click on the Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonyreina/python_for_poets/blob/master)
